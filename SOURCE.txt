@@ -1,0 +1,2 @@
+Dataset source repository: https://github.com/Prasannasegabandi36/Nassau-Candy-Distributor
+Raw CSV: https://raw.githubusercontent.com/Prasannasegabandi36/Nassau-Candy-Distributor/main/Nassau%20Candy%20Distributor.csv
